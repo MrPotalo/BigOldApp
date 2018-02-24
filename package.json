@@ -8,4 +8,7 @@
   },
   "author": "Malachi",
   "license": "ISC"
+  "engines": {
+	"node": "9.2.1"
+	}
 }
